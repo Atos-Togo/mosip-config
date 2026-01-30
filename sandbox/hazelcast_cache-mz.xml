@@ -23,7 +23,7 @@
                 <multicast-port>54327</multicast-port>
             </multicast>
             <tcp-ip enabled="false">
-                <interface>localhost</interface>
+                <interface>127.0.0.1</interface>
                 <member-list>
                     <member>127.0.0.1</member>
                 </member-list>
